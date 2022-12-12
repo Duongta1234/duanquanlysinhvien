@@ -66,6 +66,6 @@ public class Student {
         this.sodienthoai = sodienthoai;
     }
     public void show(){
-        System.out.printf("id: %d | Name: %s | quequan : %s | namsinh: %d |Tuoi: %d",id,ten,diachi,namsinh,2022-namsinh);
+        System.out.printf("id: %s | Name: %s | quequan : %s | namsinh: %d |Tuoi: %d",id,ten,diachi,namsinh,2022-namsinh);
     }
 }
